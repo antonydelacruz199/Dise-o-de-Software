@@ -1,2 +1,7 @@
-# Dise-o-de-Software
+# Diseño-de-Software
 Sistema de detección de Fraude
+Integrantes:
+-JULCA LAUREANO DICKMAR WILBER 
+-CORDOVA BUSTAMANTE ARIEL ARON
+-ANTONY MARCELO DE LA CRUZ CARDENAS
+-HELPI (IA-ASISTENTE)
